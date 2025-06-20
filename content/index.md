@@ -1,15 +1,7 @@
 ---
-title: Gentle Refactor
-draft: false
-tags:
-  - example-tag
 publish: true
-lastUpdated: 2025-06-20T12:14:00
-created: 2025-06-20T12:15:00
 ---
-## Gentle Refactor 🌿
-
-_A Digital Garden by Raymond De Leon_
+## Welcome!
 
 Welcome to **Gentle Refactor**, my personal digital garden where I document insights, experiments, and reflections as an **independent software consultant**. I’m currently focused on mastering **microservices architecture**, refining backend systems, and evolving my craft through continuous learning.
 
