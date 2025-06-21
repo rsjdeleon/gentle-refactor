@@ -1,7 +1,12 @@
 ---
-publish: true
+title: Welcome
+slug: index
+description: Start here. This is the homepage of my digital garden.
+hideTitle: true
+hideGraph: true
+hideUpdated: true
+tags:
 ---
-## Welcome!
 
 Welcome to **Gentle Refactor**, my personal digital garden where I document insights, experiments, and reflections as an **independent software consultant**. I’m currently focused on mastering **microservices architecture**, refining backend systems, and evolving my craft through continuous learning.
 

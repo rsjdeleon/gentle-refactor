@@ -22,7 +22,9 @@ export const defaultContentPageLayout: PageLayout = {
       condition: (page) => page.fileData.slug !== "index",
     }),
     Component.ArticleTitle(),
-    Component.ContentMeta(),
+    Component.ContentMeta({
+      showReadingTime: false
+    }),
     Component.TagList(),
   ],
   left: [
@@ -34,11 +36,11 @@ export const defaultContentPageLayout: PageLayout = {
           Component: Component.Search(),
           grow: true,
         },
-        // { Component: Component.Darkmode() },
-        // { Component: Component.ReaderMode() },
+        { Component: Component.Darkmode() },
+        { Component: Component.ReaderMode() },
       ],
     }),
-    // Component.Explorer(),
+    Component.Explorer(),
     Component.RecentNotes({ title: "Recent Notes" }),
   ],
   right: [

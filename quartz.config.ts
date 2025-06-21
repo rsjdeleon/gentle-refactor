@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Gentle Refactor 🌿",
+    pageTitle: "Gentle Refactor",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -95,3 +95,8 @@ const config: QuartzConfig = {
 }
 
 export default config
+export const contentDir = "content"
+export const SITE = {
+  name: "Raymond’s Digital Garden",
+  description: "My second brain built with Quartz",
+}
