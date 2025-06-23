@@ -1,5 +1,5 @@
 ---
-title: The credit belongs to the man who is actually in the arena
+title: The credit belongs ...
 tags:
   - Courage
 ---
