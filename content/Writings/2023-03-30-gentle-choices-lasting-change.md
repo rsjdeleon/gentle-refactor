@@ -2,7 +2,7 @@
 title: Gentle Choices, Lasting Change
 tags:
   - Emotional-Resilience
-created: 2025-06-23T14:49:00
+created: 2023-03-30T14:49:00
 ---
 
 ## 🧭 On Decision Making and Risk
