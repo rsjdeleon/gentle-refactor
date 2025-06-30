@@ -1,7 +1,7 @@
 ---
 title: Functional Interfaces
 tags:
-  - Java
+  - Java11
 ---
 
 ## ✅ Practical Use Cases 

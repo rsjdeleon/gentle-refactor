@@ -5,7 +5,7 @@ tags:
   - stoicism
   - self-mastery
   - reflection
-created: 2022-06-26T14:49:00
+created: 2024-06-26T14:49:00
 ---
 In my experience, it’s usually better to **calculate before reacting**. Acting hastily often leads to regret. I’ve found value in being still — waiting for more information, for events to unfold, or for things to settle. When the dust clears, I can prepare to act and speak with more clarity and wisdom.
 

@@ -1,7 +1,7 @@
 ---
 title: Stream API
 tags:
-  - Java
+  - Java11
 ---
 
 ## 🛠 Practical Examples

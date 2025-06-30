@@ -1,7 +1,7 @@
 ---
 title: Lambda Expressions
 tags:
-  - Java
+  - Java11
 ---
 
 ## ✅ Syntax
