@@ -12,7 +12,7 @@ created: 2025-06-30T14:49:00
 - 300 series are redirections 
 - 400 series are client errors 
 - 500 series are server side errors
-- 
+
 ## Common HTTP Status Codes
 
 - **200** Okay; **201** Created; **204** Accepted
