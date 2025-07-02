@@ -1,7 +1,9 @@
 ---
 title: Functional Interfaces
 tags:
-  - Java11
+  - Java8
+  - Stream
+  - Async
 ---
 
 ## ✅ Practical Use Cases 

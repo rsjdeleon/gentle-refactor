@@ -1,5 +1,5 @@
 ---
-title: Code Structure for Consuming RESTFul Services
+title: Consuming RESTFul Structure
 tags:
   - ConsumingRestFul
 created: 2025-07-01

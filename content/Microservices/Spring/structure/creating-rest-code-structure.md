@@ -1,5 +1,5 @@
 ---
-title: Code Structure for Creating RESTFul Services
+title: Creating RESTFul Structure
 tags:
   - CreatingRestFul
 created: 2025-07-01
