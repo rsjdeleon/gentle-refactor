@@ -8,13 +8,30 @@ hideUpdated: true
 tags:
 ---
 
-Welcome to **Gentle Refactor**, my personal digital garden where I document insights, experiments, and reflections as an **independent software consultant**. I’m currently focused on mastering **microservices architecture**, refining backend systems, and evolving my craft through continuous learning.
+**Welcome to Gentle Refactor** — my personal digital garden where ideas grow, skills deepen, and solutions take root.
 
-This space is a living archive—some notes are polished, others are works in progress. Like refactoring code, growth here is iterative and mindful.
+I’m **Raymond De Leon**, an independent software consultant with a focus on:
 
-You're most welcome to look around, explore topics, and revisit as this garden grows.  **Make yourself at home.**
+- **Microservices Architecture** (Spring Boot, Docker, Kubernetes)
+    
+- **Backend Systems Optimization** (Java, Kotlin, SQL)
+    
+- **Scalable API Design & Documentation** (REST, Swagger/OpenAPI)
+    
 
-> Thoughtful change takes time—and that's what this garden is about.
+This garden is my evolving workspace: a place to document insights, experiments, and lessons learned along the journey.  
+Some entries are well-polished; others are seedlings still taking shape. Like refactoring code, growth here is **iterative, deliberate, and mindful**.
 
-— _Raymond De Leon_  
-(_Consultant & Curious Builder_)
+---
+
+### 🔗 **Explore My Work**
+- 📝 **Topics in This Garden**: Microservices, CI/CD, Cloud Deployments, API Best Practices
+    
+
+---
+
+You’re welcome to browse, revisit, and watch this space evolve.  
+Thoughtful change takes time — and this garden is a testament to that process.
+
+— **Raymond De Leon**  
+_Consultant & Curious Builder_
