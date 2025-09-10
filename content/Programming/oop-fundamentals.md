@@ -27,7 +27,7 @@ public class BankAccount {
 	
 	public void deposit(double amount) {
 		if (amount > 0) {
-		balance += amount;         
+			balance += amount;         
 		}     
 	} 
 }`
@@ -82,13 +82,13 @@ class MathUtils {
 ``` java
 class Animal {
 	void sound() {
-	System.out.println("Animal makes sound"); 
+		System.out.println("Animal makes sound"); 
 	} 
 } 
 class Dog extends Animal { 
 	@Override     
 	void sound() { 
-	System.out.println("Dog barks"); 
+		System.out.println("Dog barks"); 
 	} 
 }
 ```

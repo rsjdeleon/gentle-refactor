@@ -14,7 +14,7 @@ created: 2025-08-19T14:49:00
     - `ArrayList` (fast random access, slow insertion/removal in middle)
     - `LinkedList` (fast insertion/removal, slower access)
 - Example:
-    
+
 ``` java
 List<String> names = new ArrayList<>();
 names.add("Raymond"); 
@@ -30,7 +30,7 @@ System.out.println(names); // [Raymond, Raymond]
     - `LinkedHashSet` – maintains insertion order
     - `TreeSet` – sorted, O(log n) lookups
 - Example:
-    
+
 ``` java 
 Set<String> roles = new HashSet<>(); 
 roles.add("ADMIN"); 
@@ -48,7 +48,7 @@ System.out.println(roles); // [ADMIN, USER]
     - `TreeMap` – sorted by key
     - `ConcurrentHashMap` – thread-safe
 - Example:
-    
+
 ``` java 
 Map<Integer, String> users = new HashMap<>(); 
 users.put(1, "Alice"); 
@@ -62,7 +62,7 @@ System.out.println(users); // {1=Charlie, 2=Bob}`
 - Functional style processing of collections.
 - Supports **filtering, mapping, reducing**.
 - Example:
-    
+
 ``` java
 List<Integer> numbers = Arrays.asList(1, 2, 3, 4, 5); 
 List<Integer> even = numbers.stream()
@@ -76,7 +76,7 @@ System.out.println(even); // [2, 4]`
 - A container object that may or may not contain a value.
 - Helps avoid `NullPointerException`.
 - Example:
-    
+
 ``` java
 Optional<String> opt = Optional.ofNullable(null);
 System.out.println(opt.orElse("default")); // default`
